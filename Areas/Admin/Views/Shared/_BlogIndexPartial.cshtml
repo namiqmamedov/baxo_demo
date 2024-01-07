@@ -1,0 +1,56 @@
+﻿@model IEnumerable<Blog>
+
+@*@{
+    int counter = Model.PageIndex == 1 ? 0 : (Model.PageIndex - 1) * 5;
+
+}*@
+
+<table class="table table-hover table-s-triped">
+    <thead>
+        <tr class="head__first">
+            <th scope="col">#</th>
+            <th scope="col">Name</th>
+            <th scope="col">Settings</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (Blog item in Model)
+        {
+            @*counter++;*@
+
+            <tr>
+                @*<th scope="row">@counter</th>*@
+                <td>@item.Title</td>
+                @*<td style="color:@(item.IsDeleted ? "red":"green")">@(item.IsDeleted ? "Inactive":"Active")</td>*@
+                <td>
+
+                    <div class="settings-tb d-flex gap-2">
+                        <a class="btn btn-primary edit-btn" asp-controller="blog" asp-action="update" asp-area="admin" asp-route-id="@item.ID">
+                            <i class="fa-regular fa-pen-to-square"></i>
+                        </a>
+                        <a class="btn btn-danger removeBtn" id="removeBtn" asp-controller="blog" asp-action="delete" asp-area="admin" asp-route-id="@item.ID">
+                                <i class="fa-solid fa-trash"></i>
+                        </a>
+
+@*                        @if (item.IsDeleted)
+                        {
+                            <a class="btn btn-primary restoreBtn" asp-controller="category" asp-action="restore" asp-area="admin" asp-route-id="@item.Id">
+                                <i class="bi bi-bootstrap-reboot"></i>
+                            </a>
+                        }
+                        else
+                        {
+                            <a class="btn btn-danger removeBtn" asp-controller="category" asp-action="delete" asp-area="admin" asp-route-id="@item.Id">
+                                <i class="fa-solid fa-trash"></i>
+                            </a>
+                        }*@
+                    </div>
+
+                </td>
+            </tr>
+
+        }
+    </tbody>
+</table>
+
+

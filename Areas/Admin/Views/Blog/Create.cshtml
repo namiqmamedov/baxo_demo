@@ -1,0 +1,47 @@
+﻿@model Blog
+@{
+    ViewData["Title"] = "Create";
+
+    IEnumerable<Category> categories = ViewBag.Category;
+
+    SelectList selectListCategoryItems = new SelectList(categories, nameof(Category.ID), nameof(Category.Name));
+}
+
+<h1>Create</h1>
+<script src="~/assets/ckeditor5-build-classic/ckeditor.js"></script>
+<div class="content">
+    <div class="main product-index">
+        <div class="row">
+            <form method="post" enctype="multipart/form-data">
+                <div class="mb-3 form-data">
+                    <div class="form-group">
+                        <label asp-for="Title" class="form-label"></label>
+                        <input asp-for="Title" class="form-control">
+                        <span asp-validation-for="Title" class="text text-danger"></span>
+                    </div>
+
+                    <div class="form-group">
+                        <label asp-for="Author" class="form-label"></label>
+                        <input asp-for="Author" class="form-control">
+                        <span asp-validation-for="Author" class="text text-danger"></span>
+                    </div>
+
+                    <div class="category-box d-flex">
+                        <div class="select-box">
+                            <select asp-for="CategoryID" asp-items="selectListCategoryItems">
+                            </select>
+                            <span class="text text-danger" asp-validation-for="CategoryID"></span>
+                        </div>
+                    </div>
+
+                </div>
+                <button type="submit" class="btn btn-primary">Create</button>
+            </form>
+
+        </div>
+    </div>
+</div>
+
+
+
+

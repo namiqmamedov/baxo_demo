@@ -1,0 +1,195 @@
+﻿@model List<Blog>
+
+<div class="general-news ptb-100">
+  <div class="container-fluid">
+    <div class="content-wrapper">
+      <div class="left-content">
+        <div class="row align-items-end mb-40">
+          <div class="col-md-7">
+            <h2 class="section-title">Blogs <img class="section-title-img" src="~/assets/img/section-img.webp" alt="Image">
+            </h2>
+          </div>
+          <div class="col-md-5 text-md-end">
+            <a asp-controller="blog" asp-action="detail" class="link-one">View All Blogs <i class="flaticon-right-arrow"></i>
+            </a>
+          </div>
+        </div>
+        <div class="row justify-content-center">
+                    @foreach (Blog blog in Model)
+                    {
+                        <div class="col-xl-6">
+                            <div class="news-card-twelve">
+                              <div class="news-card-img">
+                                <img src="~/assets/img/news/news-20.webp" alt="Image">
+                              </div>
+                              <div class="news-card-info">
+                                <a asp-controller="blog" asp-action="detail" asp-route-id="@blog.ID" class="news-cat">Fashion</a>
+                                <h3>
+                                  <a asp-controller="blog" asp-action="detail" asp-route-id="@blog.ID">@blog.Title</a>
+                                </h3>
+                                <ul class="news-metainfo list-style">
+                                  <li>
+                                    <i class="fi fi-rr-calendar-minus"></i>
+                                    <a href="news-by-date.html">@blog.Date</a>
+                                  </li>
+                                </ul>
+                              </div>
+                            </div>
+                        </div>
+                    }
+        </div>
+        <div class="ad-section">
+          <p>SPONSORED AD</p>
+        </div>
+        <div class="promo-wrap">
+          <div class="promo-card-two">
+            <img src="~/assets/img/promo-shape-1.webp" alt="Image" class="promo-shape">
+            <div class="promo-content">
+              <a href="index.html" class="logo">
+                <img class="logo-light" src="~/assets/img/logo.webp" alt="Image">
+                <img class="logo-dark" src="~/assets/img/logo-white.webp" alt="Image">
+              </a>
+              <p>The European languages are members of the same family separ existence is a Baxo. For science, music, sport, etc.</p>
+            </div>
+            <img src="~/assets/img/promo-img-2.webp" alt="Image" class="promo-img">
+          </div>
+        </div>
+      </div>
+      <div class="sidebar">
+        <div class="sidebar-widget-two">
+          <div class="contact-widget">
+            <img src="~/assets/img/contact-bg.svg" alt="Image" class="contact-shape">
+            <a href="index.html" class="logo">
+              <img class="logo-light" src="~/assets/img/logo.webp" alt="Image">
+              <img class="logo-dark" src="~/assets/img/logo-white.webp" alt="Image">
+            </a>
+            <p>Mauris mattis auctor cursus. Phasellus iso tellus tellus, imperdiet ut imperdiet eu, noiaculis a sem Donec vehicula luctus nunc in laoreet Aliquam</p>
+            <ul class="social-profile list-style">
+              <li>
+                <a href="https://www.fb.com/" target="_blank">
+                  <i class="flaticon-facebook-1"></i>
+                </a>
+              </li>
+              <li>
+                <a href="https://www.twitter.com/" target="_blank">
+                  <i class="flaticon-twitter-1"></i>
+                </a>
+              </li>
+              <li>
+                <a href="https://www.instagram.com/" target="_blank">
+                  <i class="flaticon-instagram-2"></i>
+                </a>
+              </li>
+              <li>
+                <a href="https://www.linkedin.com/" target="_blank">
+                  <i class="flaticon-linkedin"></i>
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="sidebar-widget">
+          <h3 class="sidebar-widget-title">Popular Posts</h3>
+          <div class="pp-post-wrap">
+            <div class="news-card-one">
+              <div class="news-card-img">
+                <img src="~/assets/img/news/news-thumb-4.webp" alt="Image">
+              </div>
+              <div class="news-card-info">
+                <h3>
+                  <a asp-controller="blog" asp-action="detail">Bernie Nonummy Pelopai Iatis Eum Litora</a>
+                </h3>
+                <ul class="news-metainfo list-style">
+                  <li>
+                    <i class="fi fi-rr-calendar-minus"></i>
+                    <a href="news-by-date.html">Apr 22, 2023</a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+            <div class="news-card-one">
+              <div class="news-card-img">
+                <img src="~/assets/img/news/news-thumb-5.webp" alt="Image">
+              </div>
+              <div class="news-card-info">
+                <h3>
+                  <a asp-controller="blog" asp-action="detail">How Youth Viral Diseases May The Year 2023</a>
+                </h3>
+                <ul class="news-metainfo list-style">
+                  <li>
+                    <i class="fi fi-rr-calendar-minus"></i>
+                    <a href="news-by-date.html">Apr 23, 2023</a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+            <div class="news-card-one">
+              <div class="news-card-img">
+                <img src="~/assets/img/news/news-thumb-6.webp" alt="Image">
+              </div>
+              <div class="news-card-info">
+                <h3>
+                  <a asp-controller="blog" asp-action="detail">Man Wearing Black Pullover Hoodie To Smoke</a>
+                </h3>
+                <ul class="news-metainfo list-style">
+                  <li>
+                    <i class="fi fi-rr-calendar-minus"></i>
+                    <a href="news-by-date.html">Apr 14, 2023</a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+            <div class="news-card-one">
+              <div class="news-card-img">
+                <img src="~/assets/img/news/news-thumb-7.webp" alt="Image">
+              </div>
+              <div class="news-card-info">
+                <h3>
+                  <a asp-controller="blog" asp-action="detail">First Prototype Flight Using Kinetic Launch System</a>
+                </h3>
+                <ul class="news-metainfo list-style">
+                  <li>
+                    <i class="fi fi-rr-calendar-minus"></i>
+                    <a href="news-by-date.html">Apr 07, 2023</a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+            <div class="news-card-one">
+              <div class="news-card-img">
+                <img src="~/assets/img/news/news-thumb-8.webp" alt="Image">
+              </div>
+              <div class="news-card-info">
+                <h3>
+                  <a asp-controller="blog" asp-action="detail">Beauty Queens Need Material & Products</a>
+                </h3>
+                <ul class="news-metainfo list-style">
+                  <li>
+                    <i class="fi fi-rr-calendar-minus"></i>
+                    <a href="news-by-date.html">Apr 03, 2023</a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+            <div class="news-card-one">
+              <div class="news-card-img">
+                <img src="~/assets/img/news/news-thumb-9.webp" alt="Image">
+              </div>
+              <div class="news-card-info">
+                <h3>
+                  <a asp-controller="blog" asp-action="detail">That Woman Comes From Heaven Look Like Angel</a>
+                </h3>
+                <ul class="news-metainfo list-style">
+                  <li>
+                    <i class="fi fi-rr-calendar-minus"></i>
+                    <a href="news-by-date.html">Apr 01, 2023</a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

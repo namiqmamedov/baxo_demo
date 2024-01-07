@@ -1,0 +1,542 @@
+﻿<!DOCTYPE html>
+<html lang="zxx">
+  <!-- Mirrored from templates.hibootstrap.com/baxo/default/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 06 Jan 2024 09:21:46 GMT -->
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="~/assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="~/assets/css/remixicon.css">
+    <link rel="stylesheet" href="~/assets/css/uicons-regular-rounded.css">
+    <link rel="stylesheet" href="~/assets/css/flaticon_baxo.css">
+    <link rel="stylesheet" href="~/assets/css/swiper.bundle.min.css">
+    <link rel="stylesheet" href="~/assets/css/aos.css">
+    <link rel="stylesheet" href="~/assets/css/header.css">
+    <link rel="stylesheet" href="~/assets/css/style.css">
+    <link rel="stylesheet" href="~/assets/css/footer.css">
+    <link rel="stylesheet" href="~/assets/css/responsive.css">
+    <link rel="stylesheet" href="~/assets/css/dark-theme.css">
+    <title>Baxo - Responsive Blog HTML Template</title>
+    <link rel="icon" type="image/png" href="~/assets/img/favicon.webp">
+  </head>
+  <body>
+    <div class="loader-wrapper">
+      <div class="loader"></div>
+      <div class="loader-section section-left"></div>
+      <div class="loader-section section-right"></div>
+    </div>
+    <div class="switch-theme-mode">
+      <label id="switch" class="switch">
+        <input type="checkbox" onchange="toggleTheme()" id="slider">
+        <span class="slider round"></span>
+      </label>
+    </div>
+    <div class="navbar-area header-one" id="navbar">
+      <div class="header-top">
+        <div class="container-fluid">
+          <div class="row align-items-center">
+            <div class="col-lg-4 col-md-6 col-5">
+              <button class="subscribe-btn" data-bs-toggle="modal" data-bs-target="#newsletter-popup">Subscribe <i class="flaticon-right-arrow"></i>
+              </button>
+            </div>
+            <div class="col-lg-4 col-md-6 md-none">
+              <a class="navbar-brand" href="index.html">
+                <img class="logo-light" src="~/assets/img/logo-white.webp" alt="logo">
+                <img class="logo-dark" src="~/assets/img/logo-white.webp" alt="logo">
+              </a>
+            </div>
+            <div class="col-lg-4 col-md-6 col-7">
+              <ul class="social-profile list-style">
+                <li>
+                  <a href="https://www.fb.com/" target="_blank">
+                    <i class="ri-facebook-fill"></i>
+                  </a>
+                </li>
+                <li>
+                  <a href="https://www.twitter.com/" target="_blank">
+                    <i class="ri-twitter-fill"></i>
+                  </a>
+                </li>
+                <li>
+                  <a href="https://www.instagram.com/" target="_blank">
+                    <i class="ri-instagram-line"></i>
+                  </a>
+                </li>
+                <li>
+                  <a href="https://www.linkedin.com/" target="_blank">
+                    <i class="ri-linkedin-fill"></i>
+                  </a>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="container-fluid">
+        <nav class="navbar navbar-expand-lg">
+          <a class="sidebar-toggler md-none" data-bs-toggle="offcanvas" href="#navbarOffcanvas" role="button" aria-controls="navbarOffcanvas">
+            <img src="~/assets/img/icons/menubar-white.svg" alt="Image">
+          </a>
+          <a class="navbar-brand d-lg-none" href="index.html">
+            <img class="logo-light" src="~/assets/img/logo-white.webp" alt="logo">
+            <img class="logo-dark" src="~/assets/img/logo-white.webp" alt="logo">
+          </a>
+          <button type="button" class="search-btn d-lg-none" data-bs-toggle="modal" data-bs-target="#searchModal">
+            <i class="flaticon-loupe"></i>
+          </button>
+          <a class="navbar-toggler" data-bs-toggle="offcanvas" href="#navbarOffcanvas" role="button" aria-controls="navbarOffcanvas">
+            <span class="burger-menu">
+              <span class="top-bar"></span>
+              <span class="middle-bar"></span>
+              <span class="bottom-bar"></span>
+            </span>
+          </a>
+          <div class="collapse navbar-collapse">
+            <ul class="navbar-nav mx-auto">
+              <li class="nav-item">
+                <a href="javascript:void(0)" class="dropdown-toggle nav-link active"> Home </a>
+                <ul class="dropdown-menu">
+                  <li class="nav-item">
+                    <a href="index.html" class="nav-link active"> Home Demo One </a>
+                  </li>
+                  <li class="nav-item">
+                    <a href="index-2.html" class="nav-link"> Home Demo Two </a>
+                  </li>
+                  <li class="nav-item">
+                    <a href="index-3.html" class="nav-link"> Home Demo Three </a>
+                  </li>
+                </ul>
+              </li>
+              <li class="nav-item">
+                <a href="javascript:void(0)" class="dropdown-toggle nav-link"> Pages </a>
+                <ul class="dropdown-menu">
+                  <li class="nav-item">
+                    <a href="about.html" class="nav-link"> About Us </a>
+                  </li>
+                  <li class="nav-item">
+                    <a href="contact.html" class="nav-link"> Contact Us </a>
+                  </li>
+                  <li class="nav-item">
+                    <a href="team.html" class="nav-link"> Team </a>
+                  </li>
+                  <li class="nav-item">
+                    <a href="author.html" class="nav-link"> Author </a>
+                  </li>
+                  <li class="nav-item">
+                    <a href="privacy-policy.html" class="nav-link"> Privacy Policy </a>
+                  </li>
+                  <li class="nav-item">
+                    <a href="terms-conditions.html" class="nav-link"> Terms & Conditions </a>
+                  </li>
+                  <li class="nav-item">
+                    <a href="error-404.html" class="nav-link"> 404 Error Page </a>
+                  </li>
+                </ul>
+              </li>
+              <li class="nav-item">
+                <a href="javascript:void(0)" class="dropdown-toggle nav-link"> Business </a>
+                <ul class="dropdown-menu">
+                  <li class="nav-item">
+                    <a asp-controller="blog" asp-action="detail" class="nav-link"> Business News </a>
+                  </li>
+                  <li class="nav-item">
+                    <a asp-controller="blog" asp-action="detail" class="nav-link"> Business News Details </a>
+                  </li>
+                </ul>
+              </li>
+              <li class="nav-item">
+                <a href="javascript:void(0)" class="dropdown-toggle nav-link"> Politics </a>
+                <ul class="dropdown-menu">
+                  <li class="nav-item">
+                    <a href="politics.html" class="nav-link"> Political News </a>
+                  </li>
+                  <li class="nav-item">
+                    <a href="politics-details.html" class="nav-link"> Political News Details </a>
+                  </li>
+                </ul>
+              </li>
+              <li class="nav-item">
+                <a href="javascript:void(0)" class="dropdown-toggle nav-link"> Video </a>
+                <ul class="dropdown-menu">
+                  <li class="nav-item">
+                    <a href="featured-video.html" class="nav-link"> Featured Video </a>
+                  </li>
+                  <li class="nav-item">
+                    <a href="featured-video-details.html" class="nav-link"> Featured Video Details </a>
+                  </li>
+                </ul>
+              </li>
+              <li class="nav-item">
+                <a href="javascript:void(0)" class="dropdown-toggle nav-link"> Sports </a>
+                <ul class="dropdown-menu">
+                  <li class="nav-item">
+                    <a href="sports.html" class="nav-link"> Sports News </a>
+                  </li>
+                  <li class="nav-item">
+                    <a href="sports-details.html" class="nav-link"> Sports News Details </a>
+                  </li>
+                </ul>
+              </li>
+              <li class="nav-item">
+                <a href="javascript:void(0)" class="nav-link dropdown-toggle"> Shop </a>
+                <ul class="dropdown-menu">
+                  <li class="nav-item">
+                    <a href="shop-grid.html" class="nav-link"> Shop Grid </a>
+                  </li>
+                  <li class="nav-item">
+                    <a href="shop-left-sidebar.html" class="nav-link"> Shop Left Sidebar </a>
+                  </li>
+                  <li class="nav-item">
+                    <a href="shop-right-sidebar.html" class="nav-link"> Shop Right Sidebar </a>
+                  </li>
+                  <li class="nav-item">
+                    <a href="shop-details.html" class="nav-link"> Shop Details </a>
+                  </li>
+                  <li class="nav-item">
+                    <a href="cart.html" class="nav-link"> Cart </a>
+                  </li>
+                  <li class="nav-item">
+                    <a href="wishlist.html" class="nav-link"> Wishlist </a>
+                  </li>
+                  <li class="nav-item">
+                    <a href="checkout.html" class="nav-link"> Checkout </a>
+                  </li>
+                  <li class="nav-item">
+                    <a href="login.html" class="nav-link"> Login </a>
+                  </li>
+                  <li class="nav-item">
+                    <a href="signup.html" class="nav-link"> Sign Up </a>
+                  </li>
+                </ul>
+              </li>
+            </ul>
+            <div class="others-option d-flex align-items-center">
+              <div class="option-item">
+                <a class="shopcart" href="cart.html">
+                  <i class="flaticon-shopping-cart"></i>
+                  <span>5</span>
+                </a>
+              </div>
+              <div class="option-item">
+                <button type="button" class="search-btn" data-bs-toggle="modal" data-bs-target="#searchModal">
+                  <i class="flaticon-loupe"></i>
+                </button>
+              </div>
+              <div class="option-item">
+                <a href="login.html" class="btn-two">Sign In</a>
+              </div>
+            </div>
+          </div>
+        </nav>
+      </div>
+    </div>
+    <div class="responsive-navbar offcanvas offcanvas-end" data-bs-backdrop="static" tabindex="-1" id="navbarOffcanvas">
+      <div class="offcanvas-header">
+        <a href="index.html" class="logo d-inline-block">
+          <img class="logo-light" src="~/assets/img/logo.webp" alt="logo">
+          <img class="logo-dark" src="~/assets/img/logo-white.webp" alt="logo">
+        </a>
+        <button type="button" class="close-btn" data-bs-dismiss="offcanvas" aria-label="Close">
+          <i class="ri-close-line"></i>
+        </button>
+      </div>
+      <div class="offcanvas-body">
+        <div class="accordion" id="navbarAccordion">
+          <div class="accordion-item">
+            <button class="accordion-button collapsed active" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne"> Home </button>
+            <div id="collapseOne" class="accordion-collapse collapse" data-bs-parent="#navbarAccordion">
+              <div class="accordion-body">
+                <div class="accordion" id="navbarAccordion2">
+                  <div class="accordion-item">
+                    <a class="accordion-link active" href="index.html"> Home Demo One </a>
+                  </div>
+                  <div class="accordion-item">
+                    <a class="accordion-link" href="index-2.html"> Home Demo Two </a>
+                  </div>
+                  <div class="accordion-item">
+                    <a class="accordion-link" href="index-3.html"> Home Demo Three </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="accordion-item">
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapbaxour" aria-expanded="false" aria-controls="collapbaxour"> Pages </button>
+            <div id="collapbaxour" class="accordion-collapse collapse" data-bs-parent="#navbarAccordion">
+              <div class="accordion-body">
+                <div class="accordion" id="navbarAccordion45">
+                  <div class="accordion-item">
+                    <a class="accordion-link" href="about.html"> About Us </a>
+                  </div>
+                  <div class="accordion-item">
+                    <a class="accordion-link" href="contact.html"> Contact Us </a>
+                  </div>
+                  <div class="accordion-item">
+                    <a href="team.html" class="accordion-link"> Team </a>
+                  </div>
+                  <div class="accordion-item">
+                    <a href="author.html" class="accordion-link"> Author </a>
+                  </div>
+                  <div class="accordion-item">
+                    <a href="privacy-policy.html" class="accordion-link"> Privacy Policy </a>
+                  </div>
+                  <div class="accordion-item">
+                    <a href="terms-conditions.html" class="accordion-link"> Terms & Conditions </a>
+                  </div>
+                  <div class="accordion-item">
+                    <a href="error-404.html" class="accordion-link"> 404 Error Page </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="accordion-item">
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo"> Business </button>
+            <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#navbarAccordion">
+              <div class="accordion-body">
+                <div class="accordion" id="navbarAccordion7">
+                  <div class="accordion-item">
+                    <a asp-controller="blog" asp-action="detail" class="accordion-link"> Business News </a>
+                  </div>
+                  <div class="accordion-item">
+                    <a asp-controller="blog" asp-action="detail" class="accordion-link"> Business News Details </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="accordion-item">
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree"> Politics </button>
+            <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#navbarAccordion">
+              <div class="accordion-body">
+                <div class="accordion" id="navbarAccordion30">
+                  <div class="accordion-item">
+                    <a href="politics.html" class="accordion-link"> Political News </a>
+                  </div>
+                  <div class="accordion-item">
+                    <a href="politics-details.html" class="accordion-link"> Political News Details </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="accordion-item">
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour"> Video </button>
+            <div id="collapseFour" class="accordion-collapse collapse" data-bs-parent="#navbarAccordion">
+              <div class="accordion-body">
+                <div class="accordion" id="navbarAccordion11">
+                  <div class="accordion-item">
+                    <a href="featured-video.html" class="accordion-link"> Featured Video </a>
+                  </div>
+                  <div class="accordion-item">
+                    <a href="featured-video-details.html" class="accordion-link"> Featured Video Details </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="accordion-item">
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFourth" aria-expanded="false" aria-controls="collapseFourth"> Sports </button>
+            <div id="collapseFourth" class="accordion-collapse collapse" data-bs-parent="#navbarAccordion">
+              <div class="accordion-body">
+                <div class="accordion" id="navbarAccordion111">
+                  <div class="accordion-item">
+                    <a href="sports.html" class="accordion-link"> Sports News </a>
+                  </div>
+                  <div class="accordion-item">
+                    <a href="sports-details.html" class="accordion-link"> Sports News Details </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="accordion-item">
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive"> Shop </button>
+            <div id="collapseFive" class="accordion-collapse collapse" data-bs-parent="#navbarAccordion">
+              <div class="accordion-body">
+                <div class="accordion" id="navbarAccordion70">
+                  <div class="accordion-item">
+                    <a href="shop-grid.html" class="accordion-link"> Shop Grid </a>
+                  </div>
+                  <div class="accordion-item">
+                    <a href="shop-left-sidebar.html" class="accordion-link"> Shop Left Sidebar </a>
+                  </div>
+                  <div class="accordion-item">
+                    <a href="shop-right-sidebar.html" class="accordion-link"> Shop Right Sidebar </a>
+                  </div>
+                  <div class="accordion-item">
+                    <a href="shop-details.html" class="accordion-link"> Shop Details </a>
+                  </div>
+                  <div class="accordion-item">
+                    <a href="cart.html" class="accordion-link"> Cart </a>
+                  </div>
+                  <div class="accordion-item">
+                    <a href="wishlist.html" class="accordion-link"> Wishlist </a>
+                  </div>
+                  <div class="accordion-item">
+                    <a href="checkout.html" class="accordion-link"> Checkout </a>
+                  </div>
+                  <div class="accordion-item">
+                    <a href="login.html" class="accordion-link"> Login </a>
+                  </div>
+                  <div class="accordion-item">
+                    <a href="signup.html" class="accordion-link"> Sign Up </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="offcanvas-contact-info">
+          <h4>Contact Info</h4>
+          <ul class="contact-info list-style">
+            <li>
+              <i class="ri-map-pin-fill"></i>
+              <p>28/A Street, New York, USA</p>
+            </li>
+            <li>
+              <i class="ri-mail-fill"></i>
+              <a href="https://templates.hibootstrap.com/cdn-cgi/l/email-protection#5e363b3232311e3c3f2631703d3133">
+                <span class="__cf_email__" data-cfemail="f8909d949497b89a998097d69b9795">[email&#160;protected]</span>
+              </a>
+            </li>
+            <li>
+              <i class="ri-phone-fill"></i>
+              <a href="tel:1800123456789">+1 800 123 456 789</a>
+            </li>
+          </ul>
+          <ul class="social-profile list-style">
+            <li>
+              <a href="https://www.fb.com/" target="_blank">
+                <i class="ri-facebook-fill"></i>
+              </a>
+            </li>
+            <li>
+              <a href="https://www.instagram.com/" target="_blank">
+                <i class="ri-instagram-line"></i>
+              </a>
+            </li>
+            <li>
+              <a href="https://www.linkedin.com/" target="_blank">
+                <i class="ri-linkedin-fill"></i>
+              </a>
+            </li>
+            <li>
+              <a href="https://www.twitter.com/" target="_blank">
+                <i class="ri-twitter-fill"></i>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="others-option d-flex d-lg-none align-items-center">
+          <div class="option-item">
+            <a href="login.html" class="btn-two">Sign In</a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="modal fade searchModal" id="searchModal" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <form>
+            <input type="text" class="form-control" placeholder="Search here....">
+            <button type="submit">
+              <i class="fi fi-rr-search"></i>
+            </button>
+          </form>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close">
+            <i class="ri-close-line"></i>
+          </button>
+        </div>
+      </div>
+    </div> @RenderBody() <div class="container-fluid">
+      <div class="footer-wrap">
+        <div class="row align-items-center">
+          <div class="col-lg-4">
+            <p class="copyright-text">© <span>Baxo</span> is proudly owned by <a href="https://hibootstrap.com/">HiBootstrap</a>
+            </p>
+          </div>
+          <div class="col-lg-4 text-center">
+            <ul class="social-profile list-style">
+              <li>
+                <a href="https://www.fb.com/" target="_blank">
+                  <i class="flaticon-facebook-1"></i>
+                </a>
+              </li>
+              <li>
+                <a href="https://www.twitter.com/" target="_blank">
+                  <i class="flaticon-twitter-1"></i>
+                </a>
+              </li>
+              <li>
+                <a href="https://www.instagram.com/" target="_blank">
+                  <i class="flaticon-instagram-2"></i>
+                </a>
+              </li>
+              <li>
+                <a href="https://www.linkedin.com/" target="_blank">
+                  <i class="flaticon-linkedin"></i>
+                </a>
+              </li>
+            </ul>
+          </div>
+          <div class="col-lg-4">
+            <div class="footer-right">
+              <button class="subscribe-btn" data-bs-toggle="modal" data-bs-target="#newsletter-popup">Become a subscriber <i class="flaticon-right-arrow"></i>
+              </button>
+              <p>Get all the latest posts delivered straight to your inbox.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <button type="button" id="backtotop" class="position-fixed text-center border-0 p-0">
+      <i class="ri-arrow-up-line"></i>
+    </button>
+    <div class="modal fade" id="newsletter-popup" tabindex="-1" aria-labelledby="newsletter-popup" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-centered modal-xl">
+        <div class="modal-content">
+          <button type="button" class="btn_close" data-bs-dismiss="modal" aria-label="Close">
+            <i class="fi fi-rr-cross"></i>
+          </button>
+          <div class="modal-body">
+            <div class="newsletter-bg bg-f"></div>
+            <div class="newsletter-content">
+              <img src="~/assets/img/newsletter-icon.webp" alt="Image" class="newsletter-icon">
+              <h2>Join Our Newsletter & Read The New Posts First</h2>
+              <form action="#" class="newsletter-form">
+                <input type="email" placeholder="Email Address">
+                <button type="button" class="btn-one">Subscribe <i class="flaticon-arrow-right"></i>
+                </button>
+              </form>
+              <div class="form-check checkbox">
+                <input class="form-check-input" type="checkbox" id="test_21">
+                <label class="form-check-label" for="test_21"> I've read and accept <a href="privacy-policy.html">Privacy Policy</a>
+                </label>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="modal fade" id="quickview-modal" data-bs-keyboard="false" tabindex="-1" aria-labelledby="quickview-modal" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-centered modal-xl">
+        <div class="modal-content">
+          <button type="button" class="btn_close" data-bs-dismiss="modal" aria-label="Close">
+            <i class="ri-close-line"></i>
+          </button>
+          <div class="modal-body">
+            <div class="video-popup">
+              <iframe width="885" height="498" src="https://www.youtube.com/embed/3FjT7etqxt8" title="How to Design an Elvis Movie Poster in Photoshop" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script data-cfasync="false" src="../../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
+    <script src="~/assets/js/bootstrap.bundle.min.js"></script>
+    <script src="~/assets/js/swiper.bundle.min.js"></script>
+    <script src="~/assets/js/aos.js"></script>
+    <script src="~/assets/js/main.js"></script>
+  </body>
+  <!-- Mirrored from templates.hibootstrap.com/baxo/default/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 06 Jan 2024 09:22:19 GMT -->
+</html>

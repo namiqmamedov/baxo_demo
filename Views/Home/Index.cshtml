@@ -1,0 +1,7 @@
+﻿@model List<Blog>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+@await Component.InvokeAsync("Blog",Model)

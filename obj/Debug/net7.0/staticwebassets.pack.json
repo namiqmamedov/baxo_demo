@@ -1,0 +1,1385 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\WebApplication9.bundle.scp.css",
+      "PackagePath": "staticwebassets\\WebApplication9.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\admin\\css\\app.min.css",
+      "PackagePath": "staticwebassets\\admin\\css\\app.min.css"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\admin\\css\\style-for.css",
+      "PackagePath": "staticwebassets\\admin\\css\\style-for.css"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\admin\\css\\sweetalert2.min.css",
+      "PackagePath": "staticwebassets\\admin\\css\\sweetalert2.min.css"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\admin\\fonts\\feathere8ab.eot",
+      "PackagePath": "staticwebassets\\admin\\fonts\\feathere8ab.eot"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\admin\\fonts\\feathere8ab.svg",
+      "PackagePath": "staticwebassets\\admin\\fonts\\feathere8ab.svg"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\admin\\fonts\\feathere8ab.ttf",
+      "PackagePath": "staticwebassets\\admin\\fonts\\feathere8ab.ttf"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\admin\\fonts\\feathere8ab.woff",
+      "PackagePath": "staticwebassets\\admin\\fonts\\feathere8ab.woff"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\admin\\fonts\\la-brands-400.eot",
+      "PackagePath": "staticwebassets\\admin\\fonts\\la-brands-400.eot"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\admin\\fonts\\la-brands-400.svg",
+      "PackagePath": "staticwebassets\\admin\\fonts\\la-brands-400.svg"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\admin\\fonts\\la-brands-400.ttf",
+      "PackagePath": "staticwebassets\\admin\\fonts\\la-brands-400.ttf"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\admin\\fonts\\la-brands-400.woff",
+      "PackagePath": "staticwebassets\\admin\\fonts\\la-brands-400.woff"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\admin\\fonts\\la-brands-400.woff2",
+      "PackagePath": "staticwebassets\\admin\\fonts\\la-brands-400.woff2"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\admin\\fonts\\la-brands-400d41d.eot",
+      "PackagePath": "staticwebassets\\admin\\fonts\\la-brands-400d41d.eot"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\admin\\fonts\\la-regular-400.eot",
+      "PackagePath": "staticwebassets\\admin\\fonts\\la-regular-400.eot"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\admin\\fonts\\la-regular-400.svg",
+      "PackagePath": "staticwebassets\\admin\\fonts\\la-regular-400.svg"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\admin\\fonts\\la-regular-400.ttf",
+      "PackagePath": "staticwebassets\\admin\\fonts\\la-regular-400.ttf"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\admin\\fonts\\la-regular-400.woff",
+      "PackagePath": "staticwebassets\\admin\\fonts\\la-regular-400.woff"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\admin\\fonts\\la-regular-400.woff2",
+      "PackagePath": "staticwebassets\\admin\\fonts\\la-regular-400.woff2"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\admin\\fonts\\la-regular-400d41d.eot",
+      "PackagePath": "staticwebassets\\admin\\fonts\\la-regular-400d41d.eot"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\admin\\fonts\\la-solid-900.eot",
+      "PackagePath": "staticwebassets\\admin\\fonts\\la-solid-900.eot"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\admin\\fonts\\la-solid-900.svg",
+      "PackagePath": "staticwebassets\\admin\\fonts\\la-solid-900.svg"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\admin\\fonts\\la-solid-900.ttf",
+      "PackagePath": "staticwebassets\\admin\\fonts\\la-solid-900.ttf"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\admin\\fonts\\la-solid-900.woff",
+      "PackagePath": "staticwebassets\\admin\\fonts\\la-solid-900.woff"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\admin\\fonts\\la-solid-900.woff2",
+      "PackagePath": "staticwebassets\\admin\\fonts\\la-solid-900.woff2"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\admin\\fonts\\la-solid-900d41d.eot",
+      "PackagePath": "staticwebassets\\admin\\fonts\\la-solid-900d41d.eot"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\admin\\images\\avatars\\thumb-1.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\avatars\\thumb-1.jpg"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\admin\\images\\avatars\\thumb-10.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\avatars\\thumb-10.jpg"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\admin\\images\\avatars\\thumb-11.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\avatars\\thumb-11.jpg"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\admin\\images\\avatars\\thumb-12.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\avatars\\thumb-12.jpg"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\admin\\images\\avatars\\thumb-13.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\avatars\\thumb-13.jpg"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\admin\\images\\avatars\\thumb-14.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\avatars\\thumb-14.jpg"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\admin\\images\\avatars\\thumb-15.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\avatars\\thumb-15.jpg"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\admin\\images\\avatars\\thumb-2.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\avatars\\thumb-2.jpg"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\admin\\images\\avatars\\thumb-3.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\avatars\\thumb-3.jpg"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\admin\\images\\avatars\\thumb-4.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\avatars\\thumb-4.jpg"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\admin\\images\\avatars\\thumb-5.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\avatars\\thumb-5.jpg"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\admin\\images\\avatars\\thumb-6.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\avatars\\thumb-6.jpg"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\admin\\images\\avatars\\thumb-7.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\avatars\\thumb-7.jpg"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\admin\\images\\avatars\\thumb-8.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\avatars\\thumb-8.jpg"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\admin\\images\\avatars\\thumb-9.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\avatars\\thumb-9.jpg"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\admin\\images\\bug_hunter.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\bug_hunter.jpg"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\admin\\images\\istockphoto-1223671392-612x612.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\istockphoto-1223671392-612x612.jpg"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\admin\\images\\logo-gs-mono.svg",
+      "PackagePath": "staticwebassets\\admin\\images\\logo-gs-mono.svg"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\admin\\images\\logo\\favicon.ico",
+      "PackagePath": "staticwebassets\\admin\\images\\logo\\favicon.ico"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\admin\\images\\logo\\logo-fold.png",
+      "PackagePath": "staticwebassets\\admin\\images\\logo\\logo-fold.png"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\admin\\images\\logo\\logo-white.png",
+      "PackagePath": "staticwebassets\\admin\\images\\logo\\logo-white.png"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\admin\\images\\logo\\logo.png",
+      "PackagePath": "staticwebassets\\admin\\images\\logo\\logo.png"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\admin\\images\\others\\bg-1.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\others\\bg-1.jpg"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\admin\\images\\others\\bg-2.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\others\\bg-2.jpg"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\admin\\images\\others\\bg-3.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\others\\bg-3.jpg"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\admin\\images\\others\\bg-4.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\others\\bg-4.jpg"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\admin\\images\\others\\img-1.png",
+      "PackagePath": "staticwebassets\\admin\\images\\others\\img-1.png"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\admin\\images\\others\\img-2.png",
+      "PackagePath": "staticwebassets\\admin\\images\\others\\img-2.png"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\admin\\images\\others\\img-3.png",
+      "PackagePath": "staticwebassets\\admin\\images\\others\\img-3.png"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\admin\\images\\others\\img-4.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\others\\img-4.jpg"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\admin\\images\\others\\img-5.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\others\\img-5.jpg"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\admin\\images\\others\\img-6.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\others\\img-6.jpg"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\admin\\images\\others\\img-7.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\others\\img-7.jpg"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\admin\\images\\thumbs\\en_US.png",
+      "PackagePath": "staticwebassets\\admin\\images\\thumbs\\en_US.png"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\admin\\images\\thumbs\\fr_FR.png",
+      "PackagePath": "staticwebassets\\admin\\images\\thumbs\\fr_FR.png"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\admin\\images\\thumbs\\german.png",
+      "PackagePath": "staticwebassets\\admin\\images\\thumbs\\german.png"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\admin\\images\\thumbs\\italy.png",
+      "PackagePath": "staticwebassets\\admin\\images\\thumbs\\italy.png"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\admin\\images\\thumbs\\japan.png",
+      "PackagePath": "staticwebassets\\admin\\images\\thumbs\\japan.png"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\admin\\images\\thumbs\\spain.png",
+      "PackagePath": "staticwebassets\\admin\\images\\thumbs\\spain.png"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\admin\\images\\thumbs\\thumb-1.png",
+      "PackagePath": "staticwebassets\\admin\\images\\thumbs\\thumb-1.png"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\admin\\images\\thumbs\\thumb-2.png",
+      "PackagePath": "staticwebassets\\admin\\images\\thumbs\\thumb-2.png"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\admin\\images\\thumbs\\thumb-3.png",
+      "PackagePath": "staticwebassets\\admin\\images\\thumbs\\thumb-3.png"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\admin\\images\\thumbs\\thumb-4.png",
+      "PackagePath": "staticwebassets\\admin\\images\\thumbs\\thumb-4.png"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\admin\\images\\thumbs\\thumb-5.png",
+      "PackagePath": "staticwebassets\\admin\\images\\thumbs\\thumb-5.png"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\admin\\images\\thumbs\\us.png",
+      "PackagePath": "staticwebassets\\admin\\images\\thumbs\\us.png"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\admin\\js\\app.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\app.min.js"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\admin\\js\\custom.js",
+      "PackagePath": "staticwebassets\\admin\\js\\custom.js"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\admin\\js\\pages\\calendar.js",
+      "PackagePath": "staticwebassets\\admin\\js\\pages\\calendar.js"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\admin\\js\\pages\\chart.js",
+      "PackagePath": "staticwebassets\\admin\\js\\pages\\chart.js"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\admin\\js\\pages\\chat.js",
+      "PackagePath": "staticwebassets\\admin\\js\\pages\\chat.js"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\admin\\js\\pages\\dashboard.js",
+      "PackagePath": "staticwebassets\\admin\\js\\pages\\dashboard.js"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\admin\\js\\pages\\form-validation.js",
+      "PackagePath": "staticwebassets\\admin\\js\\pages\\form-validation.js"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\admin\\js\\pages\\icon.js",
+      "PackagePath": "staticwebassets\\admin\\js\\pages\\icon.js"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\admin\\js\\pages\\mail.js",
+      "PackagePath": "staticwebassets\\admin\\js\\pages\\mail.js"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\admin\\js\\pages\\user-list.js",
+      "PackagePath": "staticwebassets\\admin\\js\\pages\\user-list.js"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\admin\\js\\sweetalert2.all.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\sweetalert2.all.min.js"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\admin\\js\\vendors.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\vendors.min.js"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\admin\\vendors\\apexcharts\\dist\\apexcharts.css",
+      "PackagePath": "staticwebassets\\admin\\vendors\\apexcharts\\dist\\apexcharts.css"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\admin\\vendors\\apexcharts\\dist\\apexcharts.min.js",
+      "PackagePath": "staticwebassets\\admin\\vendors\\apexcharts\\dist\\apexcharts.min.js"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\admin\\vendors\\datatables\\dataTables.bootstrap.min.css",
+      "PackagePath": "staticwebassets\\admin\\vendors\\datatables\\dataTables.bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\admin\\vendors\\datatables\\dataTables.bootstrap.min.js",
+      "PackagePath": "staticwebassets\\admin\\vendors\\datatables\\dataTables.bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\admin\\vendors\\datatables\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\admin\\vendors\\datatables\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\admin\\vendors\\fullcalendar\\lib\\main.min.css",
+      "PackagePath": "staticwebassets\\admin\\vendors\\fullcalendar\\lib\\main.min.css"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\admin\\vendors\\fullcalendar\\lib\\main.min.js",
+      "PackagePath": "staticwebassets\\admin\\vendors\\fullcalendar\\lib\\main.min.js"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\admin\\vendors\\jquery-validation\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\admin\\vendors\\jquery-validation\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\admin\\vendors\\perfect-scrollbar\\css\\perfect-scrollbar.css",
+      "PackagePath": "staticwebassets\\admin\\vendors\\perfect-scrollbar\\css\\perfect-scrollbar.css"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\admin\\vendors\\quill\\quill.min.js",
+      "PackagePath": "staticwebassets\\admin\\vendors\\quill\\quill.min.js"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\css\\aos.css",
+      "PackagePath": "staticwebassets\\assets\\css\\aos.css"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\css\\dark-theme.css",
+      "PackagePath": "staticwebassets\\assets\\css\\dark-theme.css"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\css\\flaticon_baxo.css",
+      "PackagePath": "staticwebassets\\assets\\css\\flaticon_baxo.css"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\css\\footer.css",
+      "PackagePath": "staticwebassets\\assets\\css\\footer.css"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\css\\header.css",
+      "PackagePath": "staticwebassets\\assets\\css\\header.css"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\css\\remixicon.css",
+      "PackagePath": "staticwebassets\\assets\\css\\remixicon.css"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\assets\\css\\responsive.css"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\css\\swiper.bundle.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\swiper.bundle.min.css"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\css\\uicons-regular-rounded.css",
+      "PackagePath": "staticwebassets\\assets\\css\\uicons-regular-rounded.css"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\fonts\\flaticon_baxo40b8.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flaticon_baxo40b8.eot"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\fonts\\flaticon_baxo40b8.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flaticon_baxo40b8.svg"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\fonts\\flaticon_baxo40b8.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flaticon_baxo40b8.ttf"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\fonts\\flaticon_baxo40b8.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flaticon_baxo40b8.woff"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\fonts\\flaticon_baxo40b8.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flaticon_baxo40b8.woff2"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\fonts\\remixicon972e.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\remixicon972e.eot"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\fonts\\remixicon972e.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\remixicon972e.svg"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\fonts\\remixicon972e.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\remixicon972e.ttf"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\fonts\\remixicon972e.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\remixicon972e.woff"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\fonts\\remixicon972e.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\remixicon972e.woff2"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\fonts\\uicons-regular-rounded.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\uicons-regular-rounded.eot"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\fonts\\uicons-regular-rounded.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\uicons-regular-rounded.woff"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\fonts\\uicons-regular-rounded.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\uicons-regular-rounded.woff2"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\161.html",
+      "PackagePath": "staticwebassets\\assets\\img\\161.html"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\404.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\404.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\about\\about-img-1.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\about-img-1.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\about\\about-img-2.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\about-img-2.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\about\\about-img-3.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\about-img-3.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\author\\author-thumb-1.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\author\\author-thumb-1.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\author\\author-thumb-2.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\author\\author-thumb-2.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\author\\author-thumb-3.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\author\\author-thumb-3.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\author\\author-thumb-4.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\author\\author-thumb-4.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\author\\author-thumb-5.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\author\\author-thumb-5.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\author\\single-author.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\author\\single-author.jpg"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\bg-1.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\bg-1.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\contact-bg.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\contact-bg.svg"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\down-arrow-white.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\down-arrow-white.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\down-arrow.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\down-arrow.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\favicon.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\favicon.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\footer-bg.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\footer-bg.svg"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\gallery-bg-2.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery-bg-2.svg"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\gallery-img.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery-img.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\hero\\hero-slide-1.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\hero\\hero-slide-1.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\hero\\hero-slide-2.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\hero\\hero-slide-2.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\hero\\hero-slide-3.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\hero\\hero-slide-3.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\hero\\hero-slide-4.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\hero\\hero-slide-4.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\icons\\arrow-right.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\arrow-right.svg"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\icons\\behance.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\behance.svg"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\icons\\facebook-2.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\facebook-2.svg"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\icons\\facebook.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\facebook.svg"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\icons\\google.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\google.svg"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\icons\\instagram.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\instagram.svg"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\icons\\left-short-arrow.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\left-short-arrow.svg"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\icons\\menubar-black.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\menubar-black.svg"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\icons\\menubar-white.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\menubar-white.svg"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\icons\\pinterest.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\pinterest.svg"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\icons\\right-arrow-2.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\right-arrow-2.svg"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\icons\\right-short-arrow.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\right-short-arrow.svg"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\icons\\soundcloud.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\soundcloud.svg"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\icons\\telegram.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\telegram.svg"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\icons\\twitter.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\twitter.svg"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\icons\\vimeo.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\vimeo.svg"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\icons\\youtube.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\youtube.svg"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\instagram\\insta-1.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\instagram\\insta-1.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\instagram\\insta-2.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\instagram\\insta-2.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\instagram\\insta-3.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\instagram\\insta-3.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\instagram\\insta-4.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\instagram\\insta-4.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\instagram\\insta-5.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\instagram\\insta-5.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\instagram\\insta-6.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\instagram\\insta-6.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\login-bg.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\login-bg.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\logo-3.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\logo-3.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\logo-white.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\logo-white.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\logo.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\logo.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\news-1.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\news-1.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\news-10.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\news-10.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\news-100.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\news-100.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\news-11.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\news-11.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\news-12.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\news-12.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\news-13.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\news-13.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\news-14.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\news-14.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\news-15.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\news-15.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\news-16.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\news-16.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\news-17.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\news-17.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\news-18.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\news-18.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\news-19.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\news-19.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\news-2.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\news-2.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\news-20.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\news-20.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\news-21.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\news-21.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\news-22.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\news-22.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\news-23.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\news-23.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\news-24.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\news-24.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\news-25.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\news-25.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\news-26.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\news-26.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\news-27.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\news-27.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\news-28.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\news-28.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\news-29.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\news-29.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\news-3.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\news-3.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\news-30.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\news-30.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\news-31.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\news-31.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\news-32.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\news-32.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\news-33.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\news-33.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\news-34.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\news-34.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\news-35.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\news-35.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\news-36.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\news-36.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\news-37.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\news-37.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\news-38.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\news-38.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\news-39.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\news-39.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\news-4.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\news-4.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\news-40.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\news-40.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\news-41.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\news-41.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\news-42.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\news-42.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\news-43.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\news-43.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\news-44.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\news-44.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\news-45.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\news-45.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\news-46.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\news-46.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\news-47.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\news-47.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\news-48.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\news-48.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\news-49.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\news-49.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\news-5.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\news-5.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\news-50.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\news-50.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\news-51.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\news-51.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\news-52.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\news-52.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\news-53.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\news-53.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\news-54.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\news-54.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\news-55.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\news-55.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\news-56.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\news-56.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\news-57.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\news-57.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\news-58.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\news-58.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\news-59.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\news-59.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\news-6.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\news-6.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\news-60.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\news-60.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\news-61.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\news-61.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\news-62.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\news-62.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\news-63.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\news-63.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\news-64.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\news-64.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\news-65.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\news-65.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\news-66.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\news-66.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\news-67.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\news-67.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\news-68.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\news-68.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\news-69.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\news-69.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\news-7.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\news-7.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\news-70.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\news-70.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\news-71.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\news-71.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\news-72.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\news-72.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\news-73.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\news-73.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\news-74.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\news-74.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\news-75.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\news-75.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\news-76.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\news-76.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\news-77.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\news-77.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\news-78.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\news-78.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\news-79.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\news-79.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\news-8.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\news-8.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\news-80.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\news-80.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\news-81.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\news-81.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\news-82.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\news-82.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\news-83.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\news-83.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\news-84.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\news-84.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\news-85.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\news-85.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\news-86.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\news-86.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\news-87.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\news-87.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\news-88.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\news-88.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\news-89.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\news-89.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\news-9.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\news-9.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\news-90.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\news-90.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\news-91.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\news-91.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\news-92.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\news-92.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\news-93.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\news-93.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\news-94.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\news-94.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\news-95.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\news-95.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\news-96.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\news-96.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\news-97.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\news-97.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\news-98.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\news-98.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\news-99.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\news-99.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\news-thumb-1.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\news-thumb-1.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\news-thumb-2.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\news-thumb-2.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\news-thumb-3.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\news-thumb-3.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\news-thumb-4.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\news-thumb-4.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\news-thumb-5.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\news-thumb-5.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\news-thumb-6.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\news-thumb-6.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\news-thumb-7.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\news-thumb-7.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\news-thumb-8.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\news-thumb-8.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\news-thumb-9.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\news-thumb-9.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\politics\\politics-1.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\politics\\politics-1.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\politics\\politics-10.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\politics\\politics-10.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\politics\\politics-11.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\politics\\politics-11.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\politics\\politics-12.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\politics\\politics-12.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\politics\\politics-13.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\politics\\politics-13.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\politics\\politics-14.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\politics\\politics-14.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\politics\\politics-2.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\politics\\politics-2.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\politics\\politics-3.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\politics\\politics-3.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\politics\\politics-4.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\politics\\politics-4.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\politics\\politics-5.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\politics\\politics-5.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\politics\\politics-6.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\politics\\politics-6.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\politics\\politics-7.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\politics\\politics-7.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\politics\\politics-8.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\politics\\politics-8.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\politics\\politics-9.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\politics\\politics-9.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\single-news-1.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\single-news-1.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\single-news-2.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\single-news-2.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\single-news-3.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\single-news-3.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\single-news-4.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\single-news-4.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\single-news-5.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\single-news-5.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\single-news-6.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\single-news-6.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\trending-1.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\trending-1.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\trending-2.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\trending-2.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\trending-3.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\trending-3.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\trending-4.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\trending-4.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\video\\news-1.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\video\\news-1.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\video\\news-2.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\video\\news-2.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\video\\news-3.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\video\\news-3.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\video\\news-4.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\video\\news-4.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\video\\news-5.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\video\\news-5.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\video\\news-6.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\video\\news-6.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\video\\news-7.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\video\\news-7.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\video\\news-8.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\video\\news-8.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\news\\video\\news-9.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\video\\news-9.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\newsletter-bg.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\newsletter-bg.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\newsletter-icon.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\newsletter-icon.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\night.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\night.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\products\\product-1.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\products\\product-1.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\products\\product-2.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\products\\product-2.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\products\\product-3.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\products\\product-3.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\products\\product-4.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\products\\product-4.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\products\\product-5.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\products\\product-5.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\products\\product-6.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\products\\product-6.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\products\\product-7.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\products\\product-7.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\products\\product-8.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\products\\product-8.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\products\\single-product-1.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\products\\single-product-1.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\promo-bg.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\promo-bg.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\promo-img-2.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\promo-img-2.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\promo-img.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\promo-img.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\promo-shape-1.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\promo-shape-1.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\promo-shape-2.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\promo-shape-2.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\section-img.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\section-img.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\skill-bg.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\skill-bg.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\sunny.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\sunny.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\team\\team-1.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\team-1.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\team\\team-2.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\team-2.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\team\\team-3.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\team-3.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\team\\team-4.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\team-4.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\team\\team-5.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\team-5.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\team\\team-6.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\team-6.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\team\\team-7.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\team-7.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\img\\team\\team-8.webp",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\team-8.webp"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\js\\aos.js",
+      "PackagePath": "staticwebassets\\assets\\js\\aos.js"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "D:\\repos\\C#\\WebApplication9\\wwwroot\\assets\\js\\swiper.bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\swiper.bundle.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.WebApplication9.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.WebApplication9.props",
+      "PackagePath": "build\\WebApplication9.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.WebApplication9.props",
+      "PackagePath": "buildMultiTargeting\\WebApplication9.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.WebApplication9.props",
+      "PackagePath": "buildTransitive\\WebApplication9.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

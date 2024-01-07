@@ -1,0 +1,485 @@
+﻿
+.head__first th {
+    font-family: 'Open Sans',sans-serif;
+    font-size: 18px;
+    color: #fff;
+    line-height: 1.4;
+    background-color: #6c7ae0;
+}
+
+
+.table-hover {
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 0 40px 0 rgb(0 0 0 / 15%);
+    -moz-box-shadow: 0 0 40px 0 rgba(0,0,0,.15);
+    -webkit-box-shadow: 0 0 12px 0 rgb(0 0 0 / 15%);
+}
+
+.product-index .create-btn {
+    border-color: transparent !important;
+    background: #84be9a;
+}
+
+.product-index .removeBtn {
+    background-color: #b67272;
+    border-color: transparent;
+}
+
+
+.product-index .removeBtn1 {
+    background-color: #b67272;
+    border-color: transparent;
+}
+
+.product-filter .sort-section .select {
+    display: none;
+}
+
+
+select {
+    width: 157px;
+    height: 35px;
+    padding: 4px;
+    border-radius: 4px;
+    box-shadow: 1px 2px 3px #999;
+    background: #eee;
+    border: none;
+    outline: none;
+    display: inline-block;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    margin: 11px 0;
+    cursor: pointer;
+}
+
+.select-box label {
+    position: relative;
+}
+
+.productImages {
+    max-width: 100%;
+}
+
+
+.edit-btn {
+    background-color: #c0a572;
+    border-color: transparent !important;
+}
+
+    .edit-btn:hover {
+        background-color: #c0a572 !important;
+    }
+
+.wrapper {
+    background-color: #aaaaaa73;
+    border-color: transparent !important;
+}
+
+    .wrapper:hover {
+        background-color: #aaaaaa73;
+    }
+
+
+.wrapper {
+    /* This part is important for centering the content */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* End center */
+}
+
+
+.modal {
+    visibility: hidden;
+    opacity: 0;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgba(77, 77, 77, .7);
+    transition: all 0.4s;
+    height: 123%;
+}
+
+.title-prod {
+    max-width: 270px;
+}
+
+.modal:target {
+    visibility: visible;
+    opacity: 1;
+}
+
+.modal__content {
+    border-radius: 4px;
+    position: relative;
+    width: 48%;
+    max-width: 100%;
+    background: #fff;
+    padding: 1em 2em;
+    height: 53%;
+}
+
+.fa-circle-xmark {
+    font-size: 22px;
+    margin-top: 8px;
+}
+
+.modal__footer {
+    text-align: right;
+}
+
+    .modal__footer a {
+        color: #585858;
+    }
+
+    .modal__footer i {
+        color: #d02d2c;
+    }
+
+.modal__close {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    color: #585858;
+    text-decoration: none;
+}
+
+.form-control {
+    width: 100%;
+}
+
+.form-group {
+    margin: 10px 0;
+}
+
+
+    .form-group .select-box label::before {
+        content: "";
+    }
+
+    .form-group .select-box label::after {
+        content: "";
+    }
+
+.admin-logout {
+    display: block;
+    padding-left: 22px;
+    margin-top: 10px;
+    margin-bottom: 1px;
+}
+
+.price-design {
+    text-decoration-line: line-through;
+    font-size: 0.6875rem;
+    margin-left: 14px;
+}
+
+.discountedPrice {
+    color: #E7220C;
+    font-weight: bold;
+}
+
+.oldPrice {
+    font-size: 0.875rem;
+    color: #727272;
+    font-weight: 400;
+}
+
+
+.features-container {
+    width: 80%;
+    max-width: 600px;
+    margin: 50px auto;
+}
+
+button.accordion {
+    width: 100%;
+    background-color: whitesmoke;
+    border: none;
+    outline: none;
+    text-align: left;
+    padding: 15px 20px;
+    font-size: 18px;
+    color: #333;
+    cursor: pointer;
+    transition: background-color 0.2s linear;
+}
+
+    button.accordion:after {
+        font-family: FontAwesome;
+        content: "\f150";
+        font-family: "fontawesome";
+        font-size: 18px;
+        float: right;
+    }
+
+    button.accordion.is-open:after {
+        content: "\f151";
+    }
+
+    button.accordion:hover,
+    button.accordion.is-open {
+        background-color: #ddd;
+    }
+
+.accordion-content {
+    background-color: white;
+    border-left: 1px solid whitesmoke;
+    border-right: 1px solid whitesmoke;
+    padding: 0 20px;
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.2s ease-in-out;
+}
+
+
+#accordionMain {
+    margin-left: 0.4rem;
+    margin-right: 0.7rem;
+    margin-top: -25px;
+}
+
+    #accordionMain .accordionContent {
+        width: 100% !important;
+    }
+
+    #accordionMain .faq-accordion-section {
+        border: 1px solid #d2d2d2;
+        border-radius: 6px;
+    }
+
+        #accordionMain .faq-accordion-section .accordion {
+            width: 95%;
+            margin-left: 20px !important;
+        }
+
+    #accordionMain .faq-accordion-header {
+        padding-left: 19px !important;
+        padding-top: 29.5px;
+    }
+
+        #accordionMain .faq-accordion-header span {
+            font-size: 18px !important;
+        }
+
+    #accordionMain .accordion .accordion__title {
+        /*padding: 4.235rem 0rem 2rem 0rem !important;*/
+        padding-top: 9px;
+        height: 57px;
+    }
+
+        #accordionMain .accordion .accordion__title button {
+            font-size: 14px !important;
+        }
+
+
+.faq-accordion-header {
+    padding-left: 13px;
+}
+
+    .faq-accordion-header span {
+        font-size: 22px;
+        font-family: "Poppins", "Open Sans", sans-serif;
+        font-weight: bold;
+    }
+
+
+.accordionContent .faq-accordion-section {
+    margin-bottom: 51px;
+}
+
+.accordion {
+    transition: all 0.3s ease-in-out;
+    border-bottom: 1px solid #d2d2d2;
+    margin-left: 11px;
+}
+
+    .accordion + .faq-section .section-faq .accordion {
+        margin-top: 0.25rem;
+    }
+
+    .accordion .accordion__title {
+        list-style-type: none;
+        cursor: pointer;
+        font-weight: 700;
+        color: #555555;
+        background-image: url("https://www.gamestop.com/on/demandware.static/Sites-gamestop-us-Site/-/default/images/svg-icons/open-accordion.svg");
+        background-repeat: no-repeat;
+        background-position: right 0.75rem top 1.625rem;
+        background-size: 14px;
+    }
+
+        .accordion .accordion__title::marker, .faq-section .section-faq .accordion .accordion__title::-webkit-details-marker {
+            display: none;
+        }
+
+        .accordion .accordion__title h3 {
+            font-family: "Poppins", "Open Sans", sans-serif;
+        }
+
+        .accordion .accordion__title button {
+            font-size: 18px;
+            font-family: "Poppins", "Open Sans", sans-serif;
+            border: none;
+            background: transparent;
+            color: #424242;
+        }
+
+    .accordion .accordion__content .pur-info {
+        margin: 12px 0;
+    }
+
+    .accordion .accordion__content .accordion__desc {
+        margin: 0;
+        font-size: 14px;
+        font-family: "Open Sans", sans-serif;
+        line-height: 19.5px;
+        max-width: 1141px;
+        border-bottom: 1px solid #d2d2d2;
+        padding-bottom: 10px;
+    }
+
+    .accordion .accordion__content p + p {
+        margin-top: 0.5em;
+    }
+
+    .accordion[open] {
+        background-color: transparent;
+        border-color: transparent;
+    }
+
+        .accordion[open] .accordion__title {
+            background-size: 14px;
+            background-position: right 0.75rem top 1.625rem;
+            background-image: url("https://www.gamestop.com/on/demandware.static/Sites-gamestop-us-Site/-/default/images/svg-icons/close-accordion.svg");
+        }
+
+
+.form-select {
+    height: auto;
+    width: 100%;
+}
+
+.content .main1 {
+    max-width: 738px;
+}
+
+.accordionDesc {
+    margin-top: -21px !important;
+}
+
+.InputContainer {
+    padding-left: 7px
+}
+
+.contentDynm {
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 26px;
+    margin-right: 46px;
+}
+
+    .contentDynm .form-control {
+        height: auto;
+        box-shadow: 1px 2px 3px #999;
+        background: #eee;
+    }
+
+
+#countMaster {
+    margin-top: 10px;
+    margin-left: 28px;
+}
+
+.contentDynm .addInputButton #inputadding {
+    border-radius: 50%;
+    background: #18bc9c;
+    display: inline-block;
+    padding: 1px 7px;
+    color: white;
+}
+
+.contentDynm .removeInputButton #inputadding {
+    border-radius: 50%;
+    background: #18bc9c;
+    display: inline-block;
+    padding: 1px 7px;
+    color: white;
+}
+
+.contentDynm .addInputButton {
+    margin-top: auto;
+    margin-bottom: auto;
+    padding-top: 24px;
+    padding-left: 16px;
+}
+
+.contentDynm .removeInputButton {
+    margin-top: auto;
+    margin-bottom: auto;
+    padding-top: 24px;
+    padding-left: 16px;
+}
+
+
+
+.contentDynm1 {
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 34px;
+    margin-right: 46px;
+}
+
+    .contentDynm1 .form-control {
+        height: auto;
+        box-shadow: 1px 2px 3px #999;
+        background: #eee;
+    }
+
+
+.contentDynm1 .addInputButton #inputadding1 {
+    border-radius: 50%;
+    background: #18bc9c;
+    display: inline-block;
+    padding: 1px 7px;
+    color: white;
+}
+
+    .contentDynm1 .removeInputButton #inputadding1 {
+        border-radius: 50%;
+        background: #18bc9c;
+        display: inline-block;
+        padding: 1px 7px;
+        color: white;
+    }
+
+    .contentDynm1 .addInputButton {
+        margin-top: auto;
+        margin-bottom: auto;
+        padding-top: 24px;
+        padding-left: 16px;
+    }
+
+    .contentDynm1 .removeInputButton {
+        margin-top: auto;
+        margin-bottom: auto;
+        padding-top: 24px;
+        padding-left: 16px;
+    }
+
+.category-box {
+    gap: 1.2rem;
+    margin-bottom: 50px;
+    padding-left: 8px;
+}
+
+.cat_text {
+    padding-left: 7px;
+}
