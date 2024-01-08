@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using WebApplication9.DAL;
+using WebApplication9.Extension;
 using WebApplication9.Models;
 
 namespace WebApplication9.Areas.Admin.Controllers
@@ -9,10 +10,12 @@ namespace WebApplication9.Areas.Admin.Controllers
     public class BlogController : Controller
     {
         private readonly AppDbContext _context;
+        private readonly IWebHostEnvironment _env;
 
-        public BlogController(AppDbContext context)
+        public BlogController(AppDbContext context, IWebHostEnvironment env)
         {
             _context = context;
+            _env = env;
         }
         public async Task<IActionResult> Index()
         {
@@ -50,6 +53,30 @@ namespace WebApplication9.Areas.Admin.Controllers
                 ModelState.AddModelError("CategoryID", $"Please select a correct category");
 
                 return View();
+            }
+
+            if(blog.File == null)
+            {
+                ModelState.AddModelError("File", "File is required.");
+                return View(blog);
+            }
+
+            if(blog.File != null)
+            {
+                if (!blog.File.CheckFileType())
+                {
+                    ModelState.AddModelError("File", "File type should be jpg or png.");
+                    return View(blog);
+                }
+
+
+                if(!blog.File.CheckFileSize(20000))
+                {
+                    ModelState.AddModelError("File", "The maximum size should be 20mb!");
+                    return View(blog);
+                }
+
+                blog.Image = blog.File.CreateImage(_env,"assets","img","blogs");
             }
 
             blog.Title = blog.Title.Trim();

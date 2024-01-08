@@ -2048,6 +2048,118 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\assets\img\bg-1.webp))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\assets\img\blogs\19fc5a30-510a-4d23-a92a-26151c0f542d_202401081101331934_sample_640×426.jpeg))">
+      <SourceType>Package</SourceType>
+      <SourceId>WebApplication9</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/WebApplication9</BasePath>
+      <RelativePath>assets/img/blogs/19fc5a30-510a-4d23-a92a-26151c0f542d_202401081101331934_sample_640×426.jpeg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\assets\img\blogs\19fc5a30-510a-4d23-a92a-26151c0f542d_202401081101331934_sample_640×426.jpeg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\assets\img\blogs\1e570f3c-f78f-4a4b-8f7a-4bfdeb0239ef_202401080903219177_1589948978349.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>WebApplication9</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/WebApplication9</BasePath>
+      <RelativePath>assets/img/blogs/1e570f3c-f78f-4a4b-8f7a-4bfdeb0239ef_202401080903219177_1589948978349.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\assets\img\blogs\1e570f3c-f78f-4a4b-8f7a-4bfdeb0239ef_202401080903219177_1589948978349.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\assets\img\blogs\240403fc-8625-4f1e-95ce-24f0989465ff_202401081019008465_1704301210494.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>WebApplication9</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/WebApplication9</BasePath>
+      <RelativePath>assets/img/blogs/240403fc-8625-4f1e-95ce-24f0989465ff_202401081019008465_1704301210494.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\assets\img\blogs\240403fc-8625-4f1e-95ce-24f0989465ff_202401081019008465_1704301210494.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\assets\img\blogs\3e43913c-8ac1-438e-bacf-fb11fd6b613b_202401081037131182_php-reverse-shell.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>WebApplication9</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/WebApplication9</BasePath>
+      <RelativePath>assets/img/blogs/3e43913c-8ac1-438e-bacf-fb11fd6b613b_202401081037131182_php-reverse-shell.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\assets\img\blogs\3e43913c-8ac1-438e-bacf-fb11fd6b613b_202401081037131182_php-reverse-shell.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\assets\img\blogs\95b21db9-a6f2-4d78-b4b0-a2dacce2122d_202401081019390502_1704301210494.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>WebApplication9</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/WebApplication9</BasePath>
+      <RelativePath>assets/img/blogs/95b21db9-a6f2-4d78-b4b0-a2dacce2122d_202401081019390502_1704301210494.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\assets\img\blogs\95b21db9-a6f2-4d78-b4b0-a2dacce2122d_202401081019390502_1704301210494.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\assets\img\blogs\c5a9a60e-166a-4f2c-8881-6d216a0cbc8d_202401080939259160_1686658514368.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>WebApplication9</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/WebApplication9</BasePath>
+      <RelativePath>assets/img/blogs/c5a9a60e-166a-4f2c-8881-6d216a0cbc8d_202401080939259160_1686658514368.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\assets\img\blogs\c5a9a60e-166a-4f2c-8881-6d216a0cbc8d_202401080939259160_1686658514368.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\assets\img\blogs\e1f29d43-da64-44c7-ba47-20a2576236d4_202401081037305100_php-reverse-shell.php))">
+      <SourceType>Package</SourceType>
+      <SourceId>WebApplication9</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/WebApplication9</BasePath>
+      <RelativePath>assets/img/blogs/e1f29d43-da64-44c7-ba47-20a2576236d4_202401081037305100_php-reverse-shell.php</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\assets\img\blogs\e1f29d43-da64-44c7-ba47-20a2576236d4_202401081037305100_php-reverse-shell.php))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\assets\img\contact-bg.svg))">
       <SourceType>Package</SourceType>
       <SourceId>WebApplication9</SourceId>

@@ -26,6 +26,8 @@
                         <span asp-validation-for="Author" class="text text-danger"></span>
                     </div>
 
+                    <img class="img-fluid" src="~/assets/img/blogs/@Model.Image"/>
+
                     <div class="category-box d-flex">
                         <div class="select-box">
                             <select asp-for="CategoryID" asp-items="selectListCategoryItems">
